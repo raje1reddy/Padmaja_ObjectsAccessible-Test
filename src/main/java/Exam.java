@@ -1,7 +1,5 @@
 
-import java.util.Scanner;
-import java.util.ArrayList;
-//code accesses and prints all the elements of array list
+
 public class Exam {
     String name;
 

@@ -9,7 +9,7 @@ public class ExamTest {
         myExam = null;
         myExam = new Exam();
         myExam.setName("PHP");
-        
+
 
     }
 }
